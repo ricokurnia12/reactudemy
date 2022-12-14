@@ -86,3 +86,25 @@ const ExpenseForm = (props) => {
 };
 
 export default ExpenseForm;
+
+
+/* Apakah ini jalanku 
+apakah ini benar jalan yang aku tempuh 
+atau aku hanya mengikuti nafsu sesaatku
+
+Tuhan...
+Begitu banyak yang telah orang tuaku korbankan
+Harta, Waktu dan Fisiknya
+
+Apakah mereka akan kecewa
+Jikalau aku tak seperti yang merekka harapkan
+Jikalau aku tak menjadi apa yang mereka inginkan
+
+Jikalau begitu
+Maafkan anakmu ini ibu
+Maafkan anakmu ini bapak
+
+
+
+
+*/
